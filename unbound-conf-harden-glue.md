@@ -1,0 +1,1 @@
+Trust glue only if it is within the server's authority

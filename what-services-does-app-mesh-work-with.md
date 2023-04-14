@@ -1,0 +1,1 @@
+App Mesh works with various container services, including Amazon Elastic Kubernetes Service (EKS), Amazon Elastic Container Service (ECS), and Kubernetes running on Amazon EC2.

@@ -1,0 +1,1 @@
+Require DNSSEC data for trust-anchored zones, if such data is absent, the zone becomes BOGUS

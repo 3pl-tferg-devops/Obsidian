@@ -1,0 +1,3 @@
+```
+sudo service unbound restart
+```

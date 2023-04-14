@@ -1,0 +1,3 @@
+```sh
+colima start
+```

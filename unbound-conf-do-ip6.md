@@ -1,0 +1,1 @@
+May be set to yes if you have IPv6 connectivity

@@ -1,0 +1,1 @@
+The finalizers will remove the deployment from Kubernetes first and then remove it from the ArgoCD state. 
